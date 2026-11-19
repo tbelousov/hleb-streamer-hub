@@ -1,4 +1,4 @@
-## hleb-streamer-hub
+## Hleb Streamer Hub
 
 Windows hub for Twitch streams. Twitch and OBS in one place, plus plugins for rewards, alerts, TTS, and AI.
 
@@ -6,7 +6,7 @@ Download the latest build from [Releases](../../releases). This repository publi
 
 The builds are free to download and use. All rights reserved.
 
-## hleb-streamer-hub
+----
 
 Программа для Windows, которая собирает Twitch-стрим в одном окне: Twitch, OBS и плагины для наград, оповещений, озвучки и ИИ.
 
